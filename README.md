@@ -1,0 +1,2 @@
+# BindingTestInclude
+ ViewStup
